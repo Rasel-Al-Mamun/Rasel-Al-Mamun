@@ -1,4 +1,4 @@
-[![Rasel's GitHub Banner](image/poster/GitHubHeader.png)](https://braydoncoyer.dev)
+[![Rasel's GitHub Banner](https://github.com/Rasel-Al-Mamun/Rasel-Al-Mamun/blob/main/image/banar/GitHubHeader.png?raw=true)](https://braydoncoyer.dev)
 
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
@@ -34,67 +34,67 @@ ___
 ### Languages and Tools:
 ---
 <a href="https://code.visualstudio.com/" target="_blank">
-  <img alt="Visual Studio Code" width="26px" height="26px" src="image/work/visual-studio-code.png?raw=true" />
+  <img alt="Visual Studio Code" width="26px" height="26px" src="https://github.com/Rasel-Al-Mamun/Rasel-Al-Mamun/blob/main/image/work/visual-studio-code.png?raw=true" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3.org/html/" target="_blank">
-  <img alt="HTML5" width="26px" height="26px" src="image/work/html-5.png?raw=true" />
+  <img alt="HTML5" width="26px" height="26px" src="https://github.com/Rasel-Al-Mamun/Rasel-Al-Mamun/blob/main/image/work/html-5.png?raw=true" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank">
-  <img alt="CSS3" width="26px" height="26px" src="image/work/css-3.png?raw=true" />
+  <img alt="CSS3" width="26px" height="26px" src="https://github.com/Rasel-Al-Mamun/Rasel-Al-Mamun/blob/main/image/work/css-3.png?raw=true" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://sass-lang.com/" target="_blank">
-  <img alt="Sass" width="26px" height="26px" src="image/work/sass.png?raw=true" />
+  <img alt="Sass" width="26px" height="26px" src="https://github.com/Rasel-Al-Mamun/Rasel-Al-Mamun/blob/main/image/work/sass.png?raw=true" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img alt="JavaScript" width="26px" height="26px" src="image/work/js.png?raw=true" />
+  <img alt="JavaScript" width="26px" height="26px" src="https://github.com/Rasel-Al-Mamun/Rasel-Al-Mamun/blob/main/image/work/js.png?raw=true" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.python.org/" target="_blank">
-  <img alt="Python" width="26px" height="26px" src="image/work/python.png?raw=true" />
+  <img alt="Python" width="26px" height="26px" src="https://github.com/Rasel-Al-Mamun/Rasel-Al-Mamun/blob/main/image/work/python.png?raw=true" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.djangoproject.com/" target="_blank">
-  <img alt="Django" width="26px" height="26px" src="image/work/django.png?raw=true" />
+  <img alt="Django" width="26px" height="26px" src="https://github.com/Rasel-Al-Mamun/Rasel-Al-Mamun/blob/main/image/work/django.png?raw=true" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://nodejs.org/" target="_blank">
-  <img alt="Node.js" width="26px" height="26px" src="image/work/nodejs.png?raw=true" />
+  <img alt="Node.js" width="26px" height="26px" src="https://github.com/Rasel-Al-Mamun/Rasel-Al-Mamun/blob/main/image/work/nodejs.png?raw=true" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://reactjs.org/" target="_blank">
-  <img alt="React" width="26px" height="26px" src="image/work/react.png?raw=true" />
+  <img alt="React" width="26px" height="26px" src="https://github.com/Rasel-Al-Mamun/Rasel-Al-Mamun/blob/main/image/work/react.png?raw=true" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.sqlite.org/index.html" target="_blank">
-  <img alt="SQLite" width="26px" height="26px" src="image/work/sqlite.png?raw=true" />
+  <img alt="SQLite" width="26px" height="26px" src="https://github.com/Rasel-Al-Mamun/Rasel-Al-Mamun/blob/main/image/work/sqlite.png?raw=true" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.postgresql.org/" target="_blank">
-  <img alt="PostgreSQL" width="26px" height="26px" src="image/work/postgresql.png?raw=true" />
+  <img alt="PostgreSQL" width="26px" height="26px" src="https://github.com/Rasel-Al-Mamun/Rasel-Al-Mamun/blob/main/image/work/postgresql.png?raw=true" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.mysql.com/" target="_blank">
-  <img alt="MySQL" width="26px" height="26px" src="image/work/mysql.png?raw=true" />
+  <img alt="MySQL" width="26px" height="26px" src="https://github.com/Rasel-Al-Mamun/Rasel-Al-Mamun/blob/main/image/work/mysql.png?raw=true" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://git-scm.com/" target="_blank">
-  <img alt="Git" width="26px" height="26px" src="image/work/git.png?raw=true" />
+  <img alt="Git" width="26px" height="26px" src="https://github.com/Rasel-Al-Mamun/Rasel-Al-Mamun/blob/main/image/work/git.png?raw=true" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/" target="_blank">
-  <img alt="GitHub" width="26px" height="26px" src="image/work/github.png?raw=true" />
+  <img alt="GitHub" width="26px" height="26px" src="https://github.com/Rasel-Al-Mamun/Rasel-Al-Mamun/blob/main/image/work/github.png?raw=true" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://ubuntu.com/tutorials/command-line-for-beginners" target="_blank">
-  <img alt="Terminal" width="26px" height="26px" src="image/work/terminal.png?raw=true" />
+  <img alt="Terminal" width="26px" height="26px" src="https://github.com/Rasel-Al-Mamun/Rasel-Al-Mamun/blob/main/image/work/terminal.png?raw=true" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://aws.amazon.com/" target="_blank">
-  <img alt="AWS" width="26px" height="26px" src="image/work/aws.png?raw=true" />
+  <img alt="AWS" width="26px" height="26px" src="https://github.com/Rasel-Al-Mamun/Rasel-Al-Mamun/blob/main/image/work/aws.png?raw=true" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.docker.com/" target="_blank">
-  <img alt="Docker" width="26px" height="26px" src="image/work/docker.png?raw=true" />
+  <img alt="Docker" width="26px" height="26px" src="https://github.com/Rasel-Al-Mamun/Rasel-Al-Mamun/blob/main/image/work/docker.png?raw=true" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://travis-ci.org/" target="_blank">
-  <img alt="Travis" width="26px" height="26px" src="image/work/travis.png?raw=true" 
+  <img alt="Travis" width="26px" height="26px" src="https://github.com/Rasel-Al-Mamun/Rasel-Al-Mamun/blob/main/image/work/travis.png?raw=true" 
 /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/Microcontroller" target="_blank">
-  <img alt="Microcontroller" width="26px" height="26px" src="image/work/microcontroller.png?raw=true" 
+  <img alt="Microcontroller" width="26px" height="26px" src="https://github.com/Rasel-Al-Mamun/Rasel-Al-Mamun/blob/main/image/work/microcontroller.png?raw=true" 
 /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.arduino.cc/" target="_blank">
-  <img alt="Arduino" width="26px" height="26px" src="image/work/arduino.png?raw=true" 
+  <img alt="Arduino" width="26px" height="26px" src="https://github.com/Rasel-Al-Mamun/Rasel-Al-Mamun/blob/main/image/work/arduino.png?raw=true" 
 /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.raspberrypi.org/" target="_blank">
-  <img alt="Rasberry-pi" width="26px" height="26px" src="image/work/rasberry-pi.png?raw=true" 
+  <img alt="Rasberry-pi" width="26px" height="26px" src="https://github.com/Rasel-Al-Mamun/Rasel-Al-Mamun/blob/main/image/work/rasberry-pi.png?raw=true" 
 /></a>&nbsp;&nbsp;&nbsp;
 
 <br>
@@ -120,7 +120,7 @@ ___
 
 <br/>
 
-<div align="center">
+<div align="center" style="padding:10px 0;">
   <b>Note:</b> 
   <span>
     Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -140,20 +140,20 @@ ___
 ### Talk with me, I am kinda awesome:
 ---
 <a href="">
-  <img height="30" src="image/social/world-wide-web.png?raw=true">
+  <img height="30" src="https://github.com/Rasel-Al-Mamun/Rasel-Al-Mamun/blob/main/image/social/world-wide-web.png?raw=true">
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/mrraselalmamun/">
-  <img height="30" src="image/social/facebook.png?raw=true">
+  <img height="30" src="https://github.com/Rasel-Al-Mamun/Rasel-Al-Mamun/blob/main/image/social/facebook.png?raw=true">
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/MDRASELALMAMUN4">
-  <img height="30" src="image/social/twitter.png?raw=true">
+  <img height="30" src="https://github.com/Rasel-Al-Mamun/Rasel-Al-Mamun/blob/main/image/social/twitter.png?raw=true">
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/pm_rasel_al_mamun/">
-  <img height="30" src="image/social/instagram.png?raw=true">
+  <img height="30" src="https://github.com/Rasel-Al-Mamun/Rasel-Al-Mamun/blob/main/image/social/instagram.png?raw=true">
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/md-rasel-al-mamun-297589162/">
-  <img height="30" src="image/social/linkedin.png?raw=true">
+  <img height="30" src="https://github.com/Rasel-Al-Mamun/Rasel-Al-Mamun/blob/main/image/social/linkedin.png?raw=true">
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UCosAo_CQY9XVPW0xObwuJ0w">
-  <img height="30" src="image/social/youtube.png?raw=true">
+  <img height="30" src="https://github.com/Rasel-Al-Mamun/Rasel-Al-Mamun/blob/main/image/social/youtube.png?raw=true">
 </a>&nbsp;&nbsp;&nbsp;
